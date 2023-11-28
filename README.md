@@ -28,7 +28,7 @@
 ## ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## DS & AI
+## 🐺DS & AI
 <img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/09/Blog8_2.1-edited-1536x864.jpg" width="512px"/>
 
 

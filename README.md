@@ -18,5 +18,3 @@
 ### 🐺DATA & AI
 <img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/09/Blog8_2.1-edited-1536x864.jpg" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=KaitoKidKao&icon=0&color=0)](https://visitcount.itsvg.in)

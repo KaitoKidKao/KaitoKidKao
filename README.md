@@ -1,7 +1,7 @@
 
 <h1 align="center">Nguyen Tri Cao - Data Scientist / AI </h1>
 <p align="center">
-  <h7 align="center">I am an enthusiastic and dedicated student pursuing a degree in Ha Noi University of Science and Technology, eager to apply my academic knowledge and passion for data science in a practical setting. I am seeking an internship opportunity as a Data Scientist to gain hands-on experience, contribute to real-world projects, and learn from industry professionals</h3>
+  <h7 align="center">I am an enthusiastic and dedicated student pursuing a degree in Ha Noi University of Science and Technology, eager to apply my academic knowledge and passion for data science and artificial intelligence in a practical setting. I am seeking an internship opportunity as a Data Scientist \ AI  to gain hands-on experience, contribute to real-world projects, and learn from industry professionals</h3>
 </p>
 
 ## 🌐Socials
